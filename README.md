@@ -33,8 +33,8 @@ database in the specified database file path passed in the argument while execut
  
  * Output HTML :
   The page includes two visualizations using data from the SQLite database.
-     1. Distribution of Message Genres
-     2. Count of Messages by Category
+     1. [Distribution of Message Genres][Message_genrs.png]
+     2. [Count of Messages by Category][Category.png]
 
 
 ## File Description
@@ -82,7 +82,7 @@ that you got in the step 2
 
 
 ### Reference
-The mentors from udacity supported, on various cases, when i hit the brickwall. 
+The mentors from udacity supported, on various cases, whenever i hit the brickwall. 
 Also the errors reported by previous students of the udacity, and some of the answers 
 suggested also helped in fixing the errors.
 
