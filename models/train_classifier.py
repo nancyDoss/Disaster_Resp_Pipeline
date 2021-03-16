@@ -114,8 +114,11 @@ def display_results(y_test, y_pred):
     
 def evaluate_model(model, X_test, Y_test, category_names):
     """
-    
-    param:
+     This function evaluates the model, displays the scores.
+     The f1 score, precision and recall for the test set is
+     outputted for each category
+     
+    param: X, Y test values, tranined Model, label
     
     return: none
 
