@@ -33,8 +33,8 @@ database in the specified database file path passed in the argument while execut
  
  * Output HTML :
   The page includes two visualizations using data from the SQLite database.
-     1. [Distribution of Message Genres][/Message_genrs.png]
-     2. [Count of Messages by Category][/Category.png]
+     1. ![Distribution of Message Genres][Message_genrs.png]
+     2. ![Count of Messages by Category][Category.png]
 
 
 ## File Description
