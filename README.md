@@ -58,16 +58,16 @@ In any suitable python environment, copy or download all the folder, and execute
 1. Run the following commands in the project's base directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
-        `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
+        <!-- python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db -->
     - To run ML pipeline that trains classifier and saves
-        `python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl`
+        <!-- python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl -->
 
 2. Run the following command in the app's directory to run your web app.
-    `python app/run.py`
+    <!-- python app/run.py -->
 
 3. The app can be either execute from the udacity workspace(if you are using the udacity) or 
 it can run from local machine. The instructions is given below for both.
-#### Udacity workspace
+#### Udacity workspace -->
 
 1. Run your app with python run.py command
 2. Open another terminal and type env|grep WORK this will give you the spaceid (it will start with view*** and some characters after that)
